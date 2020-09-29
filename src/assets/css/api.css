@@ -765,7 +765,7 @@ font-family: Roboto !important;
     position: absolute;
     width: 440px;
     height: 240px;
-    top: 365px;
+    top: 250px;
     background:url(/src/assets/images/card.png);
     margin-left: -1.5%;
     margin-top: -100px;
@@ -776,7 +776,7 @@ font-family: Roboto !important;
 position: absolute;
 width: 240px;
 height: 162px;
-top: 775px;
+top: 550px;
 background:url(/src/assets/images/card2.png);
 margin-left: 1.5%;
 margin-top: -125px;
@@ -788,7 +788,7 @@ margin-top: -125px;
 position: absolute;
 width: 240px;
 height: 162px;
-top: 760px;
+top: 663px;
 background:url(/src/assets/images/card2.png);
 margin-left: -1.5%;
 margin-top: -20px;
@@ -799,7 +799,7 @@ margin-top: -20px;
 position: absolute;
 width: 240px;
 height: 162px;
-top: 850px;
+top: 750px;
 background:url(/src/assets/images/card2.png);
 margin-left: -1.5%;
 margin-top: -20px;
@@ -955,7 +955,7 @@ padding: 10px;
 
 #hd-1-1{
 position: absolute;
-margin-left: 49%;
+margin-left: 59%;
 margin-top: -35px;
 }
 
@@ -1058,7 +1058,7 @@ margin-top: -125px;
 #button1{
 position: absolute;
 margin-top: 120px;
-top: 1150px;
+top: 775px;
 left: 50%;
 width: 164px;
 height: 50px;
@@ -1276,7 +1276,7 @@ color: #FFFFFF;
 
 @media (max-width: 1650px) {
 #button1 {
-  top: 1150px;
+  top: 1000px;
 }
 
 #company_informations {
@@ -1302,7 +1302,7 @@ color: #FFFFFF;
 
 @media (max-width: 1350px) {
 #button1 {
-  top: 1250px;
+  top: 1050px;
 }
 }
 
@@ -1400,12 +1400,12 @@ color: #FFFFFF;
 }
 
 .pay {
-  top: 365px;
+  top: 280px;
 }
 
 .pay2 {
   top: 700px;
-  margin-top: -30px;
+  margin-top: -150px;
 }
 
 #right3 {
@@ -1417,7 +1417,7 @@ color: #FFFFFF;
 }
 
 #hd-1-1 {
-  margin-left: 47%;
+  margin-left: 57%;
 }
 
 
@@ -1451,7 +1451,7 @@ color: #FFFFFF;
 }
 
 #hd-1-1 {
-  margin-left: 60.5%;
+  margin-left: 70.5%;
 }
 
 .hide + label ~ div{
@@ -1462,7 +1462,7 @@ ul.hr {
   width:85%;
   }
   .pay2 {
-    margin-top: -30px;
+    margin-top: -120px;
   }
 }
 
@@ -1481,7 +1481,7 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 58.5%;
+  margin-left: 68.5%;
 }
 }
 
@@ -1500,7 +1500,7 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 56.5%;
+  margin-left: 74.5%;
 }
 }
 
@@ -1519,11 +1519,11 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 56.5%;
+  margin-left: 66.5%;
 }
 
 .pay2 {
-  margin-top: -30px;
+  margin-top: -100px;
 }
 }
 
@@ -1542,7 +1542,7 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 54.5%;
+  margin-left: 64.5%;
 }
 }
 
@@ -1561,7 +1561,7 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 55.5%;
+  margin-left: 65.5%;
 }
 
 .hide + label ~ div{
@@ -1588,7 +1588,7 @@ ul.hr {
 }
 
 #hd-1-1 {
-  margin-left: 43.5%;
+  margin-left: 53.5%;
 }
 }
 

@@ -78,7 +78,7 @@ var app = new Vue({
     },
 
     goToPage(){
-	document.location.href = "http://127.0.0.1:5500/index.html";
+	document.location.href = "http://127.0.0.1:5501/index.html";
     }
 
 
@@ -87,7 +87,7 @@ var app = new Vue({
 
 function goToHome()
 {
-	document.location.href = "http://127.0.0.1:5500/index.html";
+	document.location.href = "http://127.0.0.1:5501/index.html";
 }
 
 
